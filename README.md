@@ -134,8 +134,14 @@ This dashboard effectively converts raw sales data into actionable insights, hel
 - Automated reporting  
 
 ---
-
+ 
 ## 📸 Dashboard Preview  
-![Dashboard Page 1 Screenshot](SS-Overview.png)
-![Dashboard Page 2 Screenshot](SS-Analysis.png)
-![Dashboard Page 3 Screenshot](SS-detailed.png)
+
+### Overview Page
+![Overview](SS_Overview.png)
+
+### Analysis Page
+![Analysis](SS_Analysis.png)
+
+### Detailed Page
+![Detailed](SS_detailed.png)
